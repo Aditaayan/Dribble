@@ -102,7 +102,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[YUVASHREE S]</p>
+    <p>[ADITAAYAN M]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -163,7 +163,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[YUVASHREE S]</p>
+    <p>[ADITAAYAN M]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -220,7 +220,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[YUVASHREE S]</p>
+    <p>[ADITAAYAN M]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -288,7 +288,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3">
-    <p>[YUVASHREE S]</p>
+    <p>[ADITAAYAN M]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
