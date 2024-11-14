@@ -347,13 +347,18 @@ body {
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/c8caa6e0-5b26-4770-910d-01a808c9cc55)
+![Screenshot 2024-11-14 173746](https://github.com/user-attachments/assets/0e380c43-14d0-4cd1-9379-5854eca4118a)
+
 
 ![image](https://github.com/user-attachments/assets/a2ff38a0-24df-4eca-9f3c-6fcde8f242e8)
+![Screenshot 2024-11-14 173746](https://github.com/user-attachments/assets/7aff23a3-9227-4aa3-b540-53a63bb7a90d)
+
 
 ![image](https://github.com/user-attachments/assets/62559f21-f534-4c05-bb29-b1b21605c964)
 ![image](https://github.com/user-attachments/assets/050295b5-1039-4135-acfc-149863a1b7b9)
 
 ![image](https://github.com/user-attachments/assets/e4641d9a-8dc0-4491-a889-b9170310fc05)
+![Screenshot 2024-11-14 173746](https://github.com/user-attachments/assets/04df4b9a-f947-4697-8536-56e95b4632cb)
 
 
 ## RESULT:
